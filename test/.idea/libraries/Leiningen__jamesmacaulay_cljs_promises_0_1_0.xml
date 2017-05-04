@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Leiningen: jamesmacaulay/cljs-promises:0.1.0">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/jamesmacaulay/cljs-promises/0.1.0/cljs-promises-0.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
